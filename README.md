@@ -6,5 +6,5 @@ Wrapping up Object Oriented Programming for Mindful Problem Solving.
 * 6th edition.
 * From: SFMU Library.
 
-> Chapter 1, 2 Done
+> Chapter 1, 2 Done <br>
 > Chapter 3 Ongoing 
