@@ -8,6 +8,6 @@ Wrapping up Object Oriented Programming for Mindful Problem Solving.
 * From: SFMU Library.
 
 > Chapter 1, 2 Done (SFMU Computer Lab) <br>
-> Chapter 3 Ongoing (The book is not well organized.)
+> Chapter 3 Ongoing (The book is not well organized, hence returned it)
 
 ##### Following online resources
